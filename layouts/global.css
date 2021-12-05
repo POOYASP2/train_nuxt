@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Vazir';
+  src: url('~assets/fonts/Vazir.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'VazirB';
+  src: url('~assets/fonts/Vazir-Bold.woff2') format('woff2');
+}
+html {
+  font-family: 'Vazir';
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+body {
+  overflow-x: hidden !important;
+  margin: 0;
+  padding: 0;
+}
